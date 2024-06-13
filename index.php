@@ -1,7 +1,7 @@
 
 <?php include('header.php');?>
 <?php include('dbfilme.php'); ?>
-
+<?php include('dbfilmes.sql'); ?>
     <div class="box1">
     <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Adicionar</button>
     </div>
