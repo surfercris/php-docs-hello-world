@@ -1,5 +1,7 @@
 
 <?php include('dbfilme.php'); ?>
+<?php include('db_connection.php');?>
+
 <?php
 
 if(isset($_GET['Titulo'])){ 
