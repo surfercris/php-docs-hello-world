@@ -2,7 +2,7 @@
 <?php include('header.php');?>
 <?php include('dbfilme.php'); ?>
 <?php include('dbfilmes.sql'); ?>
-
+<?php include('db_connection.php'); ?>
 
 
     <div class="box1">
