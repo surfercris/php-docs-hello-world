@@ -1,6 +1,7 @@
  <!-- ligacao de paginas  -->
 <?php include 'header.php';?>
 <?php include 'dbfilme.php';?>
+<?php include('db_connection.php');?>
 
 <?php
 $connection = new mysqli("localhost", "root", "", "dbfilmes");
