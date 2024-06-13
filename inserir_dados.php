@@ -1,5 +1,7 @@
 <?php
 include 'dbfilme.php';
+include('db_connection.php');
+
 if(isset($_POST['add_movie'])){
    
     $t_name= $_POST['t_name'];
